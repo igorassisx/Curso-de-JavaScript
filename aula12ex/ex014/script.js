@@ -20,4 +20,3 @@ function carregar() {
         document.body.style.background = '#395770'
     }
 }
-
